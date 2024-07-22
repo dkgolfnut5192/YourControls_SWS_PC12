@@ -1,6 +1,7 @@
 # YourControls_SWS_PC12
 Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis 
-# Special thanks to Dustin_22 for his collaboration and help on this profile. 
+
+** Special thanks to Dustin_22 for his collaboration and help on this profile. **
 
 # Known Issues:
   - Yokes may not be Synched. I added logic to L:ARI_AileronInput and L:ARI_RudderInput to see if that helps. SWS uses that for Coordinating Aileron and Rudder

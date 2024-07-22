@@ -8,8 +8,8 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
   - Switches for DEICE (BOOTS, LH WSH and RH WSH) can not be synchronized due to OVAR's not being used by YC.
   - 4 KNOBS on Pilot, SEC, CoPILOT, Flood can not be synchronized due to B:Events and OVAR's not being used by YC.
 - FIXED:
-   All Light switches and knobs on the pedestal
-   Numerous switches on Overhead panel
+   - All Light switches and knobs on the pedestal
+   - Numerous switches on Overhead panel
  Added:
   - Added Logic for Lavatory Doors in Cabin and Main Exit
   - Added Front Pilot Window open/close functions

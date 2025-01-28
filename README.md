@@ -1,5 +1,6 @@
 # YourControls_SWS_PC12
 Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis 
+# Made for MSFS2020 and not validated for 2024
 
 ** Special thanks to Dustin_22 for his collaboration and help on this profile. **
 
